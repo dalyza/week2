@@ -13,7 +13,7 @@ package studentdata;
 public class Student {
 
     private String studentName;
-    String progName;
+    String progNames;
 
     public Student(){}
     public Student(String studentName) {
